@@ -26,10 +26,8 @@ screens read the way Arabic does.
   <img src="screenshots/03-intro-tsubasa.png" width="320" alt="الفتى الذهبي — ماجد كامل">
   <img src="screenshots/04-pep-talk.png" width="320" alt="مستعدون؟ لنخرج الآن! هيا!">
   <img src="screenshots/05-match.png" width="320" alt="In a match: ماذا؟ مهاجم خصوم">
-  <img src="screenshots/06-pass.png" width="320" alt="Passing: the player and the target">
   <img src="screenshots/07-formation.png" width="320" alt="Team plan: الخطة / الدفاع / تغيير">
   <img src="screenshots/08-team-select.png" width="320" alt="إختر فريقك!">
-  <img src="screenshots/09-settings.png" width="320" alt="الإعدادات">
   <img src="screenshots/10-stats.png" width="320" alt="Player stats">
 </p>
 
